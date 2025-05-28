@@ -6,7 +6,7 @@ body{
 
 .cards {
     display: flex; /*Alinea horizontalmente las tarjetas*/
-    width: 100%;
+    width: 150%;
     padding: 50px; /*espacio generado entre el borde del contenedor cards y los elementos card del interior*/
     justify-content: center;
 }
